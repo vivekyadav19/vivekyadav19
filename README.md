@@ -1,6 +1,6 @@
 ## Namaste🙏 , I am Vivek! Great to see you here! 👋
 
-I am Vivek Yadav, Currently I am Learning Full Stack Development and focusing on Data Structures and Algorithms. I am a tech enthusiast & newbie to open-source. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Learning Full Stack Development and focusing on Data Structures and Algorithms (DSA). I am a tech enthusiast and a newbie to open-source, who loves building super cool Web Applications. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-vivekyadav19-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav19/)](https://www.linkedin.com/in/vivekyadav19/)
 [![Twitter Badge](https://img.shields.io/badge/-vivekyadavtwt-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/vivekyadavtwt)](https://twitter.com/vivekyadavtwt)
