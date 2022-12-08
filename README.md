@@ -10,7 +10,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://)](https://)
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=vivekyadav19&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vivekyadav19&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 ## ⚡ Technologies
 
