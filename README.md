@@ -5,7 +5,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 [![Linkedin Badge](https://img.shields.io/badge/-vivekyadav19-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekyadav19/)](https://www.linkedin.com/in/vivekyadav19/)
 [![Twitter Badge](https://img.shields.io/badge/-vivekyadavtwt-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/vivekyadavtwt)](https://twitter.com/vivekyadavtwt)
 [![Gmail Badge](https://img.shields.io/badge/-vivekdyadav01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekdyadav01@gmail.com)](mailto:vivekdyadav01@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-vivekyadav.ig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vivekyadav.ig/)](https://instagram.com/vivekyadav.ig)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-vivekyadav.ig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vivekyadav.ig/)](https://instagram.com/vivekyadav.ig) -->
 ![Discord Badge](https://img.shields.io/badge/-VivekYadav1473-gray?style=flat-square&logo=Discord&logoColor=white)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://)](https://)
 
