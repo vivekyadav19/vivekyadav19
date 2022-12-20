@@ -7,12 +7,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 [![Gmail Badge](https://img.shields.io/badge/-vivekdyadav01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekdyadav01@gmail.com)](mailto:vivekdyadav01@gmail.com)
 ![Discord Badge](https://img.shields.io/badge/-VivekYadav1473-gray?style=flat-square&logo=Discord&logoColor=white)
 ![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-vivekyadav.ig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vivekyadav.ig/)](https://instagram.com/vivekyadav.ig) -->
 
-<!-- (https://) -->
-
-
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=vivekyadav19&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> -->
 
 ## ⚡ Technologies
 
