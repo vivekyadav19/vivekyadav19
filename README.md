@@ -42,11 +42,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 
 
 ## 📈 Statistics:
-<!-- <p align="center">
-	
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vivekyadav19&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav19&theme=tokyonight" />
-</p> -->
+
 
 <p align="center">
 <a  href="https://github.com/vivekyadav19"><img alt="Vivek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vivekyadav19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" /></a> 
