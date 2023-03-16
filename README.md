@@ -28,8 +28,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-007ACC?style=flat-square&logo=tailwind) -->
 
-<!-- ![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a> -->
+
 
 
 
