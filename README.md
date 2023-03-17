@@ -26,7 +26,7 @@ I am Vivek Yadav a passionate Frontend Developer from India. Currently I am Lear
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-<!-- ![Tailwind](https://img.shields.io/badge/-Tailwind-007ACC?style=flat-square&logo=tailwind) -->
+
 
 
 
